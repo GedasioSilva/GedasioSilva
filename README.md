@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gedasio Silva!
+
+### 💻 Desenvolvedor Back-end | Python | Django | Flask | FastAPI
+
+Sou um desenvolvedor back-end apaixonado por criar aplicações escaláveis e eficientes. Trabalho com **Python** e frameworks como **Django, Flask e FastAPI** para desenvolver APIs robustas, sistemas web e automações.
+
+---
+
+## 🚀 Tecnologias e Ferramentas:
+- 🐍 **Linguagens:** Python, SQL, Bash  
+- 🔥 **Frameworks:** Django, Flask, FastAPI  
+- 🛠 **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
+- ☁️ **Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, Kubernetes  
+- 📡 **APIs & Web Services:** REST, GraphQL, WebSockets  
+- 🔎 **Testes e Qualidade:** PyTest, UnitTest  
 
 
-**GedasioSilva/GedasioSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Como me Encontrar:
+- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- 📧 Email: seuemail@email.com  
+- 🚀 GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠 Sempre aprendendo e buscando desafios na área de desenvolvimento Back-end! Vamos conectar? 🚀  
 

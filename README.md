@@ -16,7 +16,7 @@ Sou um desenvolvedor back-end apaixonado por criar aplicações escaláveis e ef
 
 
 ## 📫 Como me Encontrar:
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- 💼 LinkedIn:[ [linkedin.com/in/Gedasio Silva ](https://www.linkedin.com/in/gedasio-silva-205160189/)  ])
 - 📧 Email: seuemail@email.com  
 - 🚀 GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
 

@@ -15,10 +15,12 @@ Sou um desenvolvedor back-end apaixonado por criar aplicações escaláveis e ef
 
 
 ## 📫 Como me Encontrar:
-- 💼 LinkedIn:[ [linkedin.com/in/Gedasio Silva ](https://www.linkedin.com/in/gedasio-silva-205160189/)  ])
-- 📧 Email: seuemail@email.com  
-- 🚀 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
-- 
+<div style="display: inline_block">
+  <img align="center" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" url="https://www.linkedin.com/in/gedasio-silva-205160189/" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ </div><br/>
+ 
 🤓 Tecnologias que Estudo.
 
 <div style="display: inline_block">
@@ -29,6 +31,8 @@ Sou um desenvolvedor back-end apaixonado por criar aplicações escaláveis e ef
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
